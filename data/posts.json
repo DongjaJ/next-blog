@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "리액트 Best Practice",
+    "image": "/images/profile.JPG",
+    "summary": "리액트를 정확하게 사용하는 방법들을 정리",
+    "createdAt": "2023-12-31",
+    "tag": "frontend"
+  },
+  {
+    "id": "2",
+    "title": "리액트 Best Practice",
+    "image": "/images/profile.JPG",
+    "summary": "리액트를 정확하게 사용하는 방법들을 정리",
+    "createdAt": "2023-12-31",
+    "tag": "frontend"
+  },
+  {
+    "id": "3",
+    "title": "리액트 Best Practice",
+    "image": "/images/profile.JPG",
+    "summary": "리액트를 정확하게 사용하는 방법들을 정리",
+    "createdAt": "2023-12-31",
+    "tag": "frontend"
+  },
+  {
+    "id": "4",
+    "title": "리액트 Best Practice",
+    "image": "/images/profile.JPG",
+    "summary": "리액트를 정확하게 사용하는 방법들을 정리",
+    "createdAt": "2023-12-31",
+    "tag": "frontend"
+  },
+  {
+    "id": "5",
+    "title": "리액트 Best Practice",
+    "image": "/images/profile.JPG",
+    "summary": "리액트를 정확하게 사용하는 방법들을 정리",
+    "createdAt": "2023-12-31",
+    "tag": "frontend"
+  }
+]
