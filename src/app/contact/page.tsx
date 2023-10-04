@@ -2,6 +2,7 @@ import { AiFillGithub } from "@react-icons/all-files/ai/AiFillGithub";
 import { FaBlogger } from "@react-icons/all-files/fa/FaBlogger";
 
 import Link from "next/link";
+import EmailForm from "./EmailForm";
 
 export default function Contact() {
   return (
@@ -18,9 +19,7 @@ export default function Contact() {
           </Link>
         </div>
       </section>
-      <section className="flex flex-col items-center gap-4">
-        <h3 className="text-2xl font-bold">Or Send Email</h3>
-      </section>
+      <EmailForm />
     </main>
   );
 }
